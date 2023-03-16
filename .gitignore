@@ -9,7 +9,7 @@
 # Logs
 *.log
 
-password.txt
+password.txt 
 
 # img
 *.jpg
